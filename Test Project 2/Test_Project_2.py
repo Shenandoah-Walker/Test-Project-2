@@ -1,3 +1,4 @@
-#This is a second test project for using VS Code.
+#This is teh second branch, named "New-Branch."
 
 print("Hi there!")
+print("This is a new branch.")
